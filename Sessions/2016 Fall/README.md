@@ -43,7 +43,8 @@ In addition to the technical objectives listed, each class contains artistic pro
 
 #####Javascript I
 * Overview of foundational programing elements (functions, variable, for loops, objects, etc..)
-* Introduction to JQUERY
+* Working with JSON
+* JQUERY
 
 #####P5.js 
 * Creating animations
