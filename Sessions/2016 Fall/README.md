@@ -80,7 +80,6 @@ In addition to the technical objectives listed, each class contains artistic pro
 * Using the Console
 * Creating a web service
 * Package Managers
-* Networking Arduinos with Johnny5 (Firmata) and Websockets
 * Controlling a webpage with OSC (Open Sound Control)
 * Structuring creative code works for multiple users
 
@@ -88,6 +87,7 @@ In addition to the technical objectives listed, each class contains artistic pro
 * Motors
 * Driving High Powered Circuits with a Transistor
 * Controlling LEDs
+* Networking Arduinos with Johnny5 (Firmata) and Websockets
 
 #####Interactive Environments
 * Using MQTT
