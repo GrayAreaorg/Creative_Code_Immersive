@@ -15,11 +15,11 @@ instruction distributed over three sessions:
 Week | Topic | Teacher | Class 1 |Class 2 | Class 3 
 ---- | ---- | ---- | ---- | ---- | ----
  1 | Web Skills | Stefano de Vuono | 9/13 | 9/15 | 9/17
- 2 | Javascript I | TBD | 9/20 | 9/22 | 9/24 
+ 2 | Javascript I | Stefano de Vuono | 9/20 | 9/22 | 9/24 
  3 | P5.js | Chelley Sherman | 9/27 | 9/29 | 10/1 
  4 | Project Development | Chelley Sherman | 10/4 | 10/6 | 10/8 
  5 | Physical Computing I | Mark Hellar | 10/11 | 10/13 | 10/15
- 6 | Javascript II | TBD | 10/18 | 10/20 | 10/22 
+ 6 | Javascript II | Stefano de Vuono | 10/18 | 10/20 | 10/22 
  7 | Node.js | Mark Hellar | 10/25 | 10/27 | 10/29
  8 | Physical Computing II | Mark Hellar | 11/1 | 11/3 | 11/5 
  9 | Interactive Environments | Mark Hellar  | 11/8 | 11/10 | 11/12
