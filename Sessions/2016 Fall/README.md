@@ -7,25 +7,25 @@
 ## **SCHEDULE**
 
 Session Dates: **September 13th - November 30th** <br>
-Classes: **Tuesdays & Thursdays (6pm – 9pm)** & **Saturdays (12pm – 4pm)**. 
+Classes: **Tuesdays & Thursdays (6pm – 9pm)** & **Saturdays (12pm – 4pm)**.
 
 Each week focuses on a new creative creative code technique with 10 hours of
 instruction distributed over three sessions:
-   
-Week | Topic | Teacher | Class 1 |Class 2 | Class 3 
+
+Week | Topic | Teacher | Class 1 |Class 2 | Class 3
 ---- | ---- | ---- | ---- | ---- | ----
- 1 | Web Skills | Stefano de Vuono | 9/13 | 9/15 | 9/17
- 2 | Javascript I | TBD | 9/20 | 9/22 | 9/24 
- 3 | P5.js | Chelley Sherman | 9/27 | 9/29 | 10/1 
- 4 | Project Development | Chelley Sherman | 10/4 | 10/6 | 10/8 
+ 1 | Web Skills | Stefano De Vuono | 9/13 | 9/15 | 9/17
+ 2 | Javascript I | Stefano De Vuono | 9/20 | 9/22 | 9/24
+ 3 | P5.js | Chelley Sherman | 9/27 | 9/29 | 10/1
+ 4 | Project Development | Chelley Sherman | 10/4 | 10/6 | 10/8
  5 | Physical Computing I | Mark Hellar | 10/11 | 10/13 | 10/15
- 6 | Javascript II | TBD | 10/18 | 10/20 | 10/22 
+ 6 | Javascript II | TBD | 10/18 | 10/20 | 10/22
  7 | Node.js | Mark Hellar | 10/25 | 10/27 | 10/29
- 8 | Physical Computing II | Mark Hellar | 11/1 | 11/3 | 11/5 
+ 8 | Physical Computing II | Mark Hellar | 11/1 | 11/3 | 11/5
  9 | Interactive Environments | Mark Hellar  | 11/8 | 11/10 | 11/12
  10 | Projection Mapping | Taurin Barrera | 11/15 | 11/16 | 11/19
  11 | Development Time |
- 	
+
 **INSTALLATION:** Tuesday November 29th
 <br>
 **SHOWCASE:** Wednesday November 30th (7pm - 10pm)
@@ -37,16 +37,16 @@ Week | Topic | Teacher | Class 1 |Class 2 | Class 3
 In addition to the technical objectives listed, each class contains artistic prompts to challenge your creative code development within the current week’s topic.  In addition, through the immersive Instructors will introduce and examine current creative code works for class discussion.
 
 #####Web Skills
-* Establishing a web development workflow using HTML, CSS, JS
-* Overview of debugging recourses and techniques
-* Introduction to Github and Codepen for collaboration
+* What is a computer (library metaphor), introduction to command line (tab completion!), keyboard , git and Github, Github page, homework: code review 3 things you liked and 1 new idea!
+* How to learn and debug, deeper dive into HTML and CSS, styling, design (http://jgthms.com/web-design-in-4-minutes/) server-client, inspector source code, homework: find a cute website
+* Loading assets, intro to JS libraries (Chelley: moogfest page, learnprocessing), DOM traversal, lab, code review
 
 #####Javascript I
-* Overview of foundational programing elements (functions, variable, for loops, objects, etc..)
-* Working with JSON
-* JQUERY
+* Install node.js Overview of foundational programing elements (functions, variable, for loops, objects, etc..)
+* How JS works, event loops, callbacks, JSON
+* Install browser-sync, JQUERY, client side APIs, lab: install p5.js
 
-#####P5.js 
+#####P5.js
 * Creating animations
 * Using interaction to control media (Sound, Video, SVGs, GIFs, etc..)
 * Generating Art from Data
@@ -93,7 +93,7 @@ In addition to the technical objectives listed, each class contains artistic pro
 * Using MQTT
 * Networking Sensors
 * Creating an interactive space
-* Prototyping for an engaging experience 
+* Prototyping for an engaging experience
 
 #####Projection Mapping
 * Corner Pin, Mesh Mapping and Structured Light Techniques
@@ -103,4 +103,3 @@ In addition to the technical objectives listed, each class contains artistic pro
 
 #####Development Week
 * Students, Teaching Assistants and Teachers have a week of additional development for their project in preparation for the Showcase. The Showcase takes place at the end of development week.
-
