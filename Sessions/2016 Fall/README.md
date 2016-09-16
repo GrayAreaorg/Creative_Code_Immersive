@@ -15,11 +15,11 @@ instruction distributed over three sessions:
 Week | Topic | Teacher | Class 1 |Class 2 | Class 3
 ---- | ---- | ---- | ---- | ---- | ----
  1 | Web Skills | Stefano De Vuono | 9/13 | 9/15 | 9/17
- 2 | Javascript I | Stefano De Vuono | 9/20 | 9/22 | 9/24
- 3 | P5.js | Chelley Sherman | 9/27 | 9/29 | 10/1
- 4 | Project Development | Chelley Sherman | 10/4 | 10/6 | 10/8
+ 2 | Javascript I | Stefano De Vuono | 9/20 | 9/22 | 9/24 
+ 3 | P5.js | Chelley Sherman | 9/27 | 9/29 | 10/1 
+ 4 | Project Development | Chelley Sherman | 10/4 | 10/6 | 10/8 
  5 | Physical Computing I | Mark Hellar | 10/11 | 10/13 | 10/15
- 6 | Javascript II | TBD | 10/18 | 10/20 | 10/22
+ 6 | Javascript II | Stefano De Vuono | 10/18 | 10/20 | 10/22 
  7 | Node.js | Mark Hellar | 10/25 | 10/27 | 10/29
  8 | Physical Computing II | Mark Hellar | 11/1 | 11/3 | 11/5
  9 | Interactive Environments | Mark Hellar  | 11/8 | 11/10 | 11/12
@@ -103,3 +103,13 @@ In addition to the technical objectives listed, each class contains artistic pro
 
 #####Development Week
 * Students, Teaching Assistants and Teachers have a week of additional development for their project in preparation for the Showcase. The Showcase takes place at the end of development week.
+<br>
+## **MATERIALS**
+For Physical Computing the required materials will be:
+
+* [ARDUINO UNO WITH STARTER KIT PRO PLUS BY ODDWIRES](http://www.oddwires.com/arduino-starter-kit-pro-plus/) 
+* [NODEMCU V2 - ESP8266 DEVELOPMENT BOARD](http://www.oddwires.com/nodemcu-v2-esp8266-development-board/) 
+
+Note: https://www.oddwires.com/checkout.php will do free delivery for orders over $100.00, but upsp is also fast(1 day).
+
+Please contact Mark Hellar via Gitter for any questions
