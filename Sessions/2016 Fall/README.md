@@ -104,3 +104,13 @@ In addition to the technical objectives listed, each class contains artistic pro
 #####Development Week
 * Students, Teaching Assistants and Teachers have a week of additional development for their project in preparation for the Showcase. The Showcase takes place at the end of development week.
 
+<br>
+## **MATERIALS**
+For Physical Computing the required materials will be:
+
+* [ARDUINO UNO WITH STARTER KIT PRO PLUS BY ODDWIRES](http://www.oddwires.com/arduino-starter-kit-pro-plus/) 
+* [NODEMCU V2 - ESP8266 DEVELOPMENT BOARD](http://www.oddwires.com/nodemcu-v2-esp8266-development-board/) 
+
+Note: https://www.oddwires.com/checkout.php will do free delivery for orders over $100.00, but upsp is also fast(1 day).
+
+Please contact Mark Hellar via Gitter for any questions
