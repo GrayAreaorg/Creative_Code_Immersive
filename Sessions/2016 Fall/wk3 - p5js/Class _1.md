@@ -3,7 +3,7 @@
 <br>
 # CREATIVE CODE IMMERSIVE:<br> FALL 2016 SESSION <br> P5.JS
 
-# Week 1: Web Skills
+# Week 3: P5.js
 
 <br>
 ## SLIDES
