@@ -8,7 +8,7 @@
 <br>
 ## SLIDES
 
-(http://bit.ly/2diz6yi)
+http://bit.ly/2ddGWN4
 
 <br>
 
@@ -27,5 +27,8 @@ https://vimeo.com/658158#at=34
 
 http://computer.jazz/
 
+## CLM Tracker
+
+https://github.com/auduno/clmtrackr
 
 
