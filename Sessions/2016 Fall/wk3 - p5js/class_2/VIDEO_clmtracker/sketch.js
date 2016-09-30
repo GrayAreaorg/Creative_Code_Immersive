@@ -34,7 +34,7 @@ function draw() {
     fill(map(positions[i][0], width*0.33, width*0.66, 0, 255), map(positions[i][1], height*0.33, height*0.66, 0, 255), 255);
     // draw ellipse at each position point
     var val = slider.value();
-    ellipse(positions[40][0], positions[40][1], val, val);
+    ellipse(positions[i][0], positions[i][1], val, val);
   }
 
 }
