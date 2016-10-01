@@ -31,7 +31,7 @@ function draw() {
     var x = map(i, 0, binCount, 0, width);
     var h = map(spectrum[i], 0, 255, height, 0);
     fill(col, col, 255);
-    rect(x, height, 30, -height +h );
+    rect(x, height, 30, -height+h );
   
   }
   // print(h);

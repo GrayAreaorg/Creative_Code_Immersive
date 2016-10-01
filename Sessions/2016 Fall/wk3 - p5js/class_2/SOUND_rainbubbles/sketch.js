@@ -8,7 +8,7 @@ var mic, soundFile; // input sources, press T to toggleInput()
 
 var fft;
 var smoothing = 0.8; // play with this, between 0 and .99
-var binCount = 16; // size of resulting FFT array. Must be a power of 2 between 16 an 1024
+var binCount = 32; // size of resulting FFT array. Must be a power of 2 between 16 an 1024
 var particles =  new Array(binCount);
 
 
