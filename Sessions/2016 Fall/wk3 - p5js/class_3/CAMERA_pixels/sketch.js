@@ -1,5 +1,4 @@
-var video;
-
+var video
 var vScale = 16;
 
 function setup() {

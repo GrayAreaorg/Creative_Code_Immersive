@@ -21,10 +21,10 @@ function draw() {
       var b = video.pixels[index+2];
       var a = video.pixels[index+3];  
       
-      var bright = (r+g+b)/3;
+      
       
       noStroke();
-      fill(bright);
+      fill(r,g,b,a);
       rect(x*aspectRatio,y*aspectRatio,aspectRatio, aspectRatio);
       
     }
@@ -32,5 +32,6 @@ function draw() {
 
  
 }
+
 
 

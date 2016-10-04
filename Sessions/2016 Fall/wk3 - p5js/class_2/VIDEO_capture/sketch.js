@@ -5,7 +5,7 @@ function setup() {
   background(51);
   camera = createCapture(VIDEO);
   camera.size(320, 240);
-  // camera.hide();
+  camera.hide();
 
 }
 
