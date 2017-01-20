@@ -3,4 +3,4 @@
 <br>
 #**CREATIVE CODE IMMERSIVE**
 
-Gray Area’s Creative Code Immersive is a education program focused on giving a small cohort of students a strong foundation in the art of creative code. Each week, our resident instructors guide participants through a sequence of topics that are designed to both lead to mastery of core techniques and strengthen students’ professional practice in the field of art and technology.
+Gray Area’s Creative Code Immersive is an education program focused on giving a small cohort of students a strong foundation in the art of creative code. Each week, our resident instructors guide participants through a sequence of topics that are designed to both lead to mastery of core techniques and strengthen students’ professional practice in the field of art and technology.
