@@ -1,4 +1,9 @@
-#HTML Class
+#HTML
+ - Review of git and github
+ - Answer questions
+ - Intro to HTML
+
+#Class Work
  - Create a web page page on Github Pages
  - Add a linked CSS file with at least 1 style rule
  - set up browser-sync to serve page
