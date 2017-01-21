@@ -2,9 +2,6 @@
 
 ##Tuesday October 7th:
 
-
-**[Slides](http://colt.github.io/web_skills_slides/#/welcome)**
-
 * Command-line (navigation, tab completion)
 * Git [Git Immersion](http://gitimmersion.com)
    - `git init`

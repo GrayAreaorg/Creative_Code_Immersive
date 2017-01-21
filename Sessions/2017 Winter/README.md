@@ -1,12 +1,12 @@
 <br>
 ![Gray Area Logo](https://raw.githubusercontent.com/GrayAreaorg/Education/master/img/ga-banner-logo-left-gray.png)
 <br>
-# CREATIVE CODE IMMERSIVE:<br> FALL 2016 SESSION
+# CREATIVE CODE IMMERSIVE:<br> WINTER 2017 SESSION
 
 <br>
 ## **SCHEDULE**
 
-Session Dates: **September 13th - November 30th** <br>
+Session Dates: **January 17th - Later on** <br>
 Classes: **Tuesdays & Thursdays (6pm – 9pm)** & **Saturdays (12pm – 4pm)**.
 
 Each week focuses on a new creative creative code technique with 10 hours of
@@ -14,13 +14,13 @@ instruction distributed over three sessions:
 
 Week | Topic | Teacher | Class 1 |Class 2 | Class 3
 ---- | ---- | ---- | ---- | ---- | ----
- 1 | Web Skills | Stefano De Vuono | 9/13 | 9/15 | 9/17
- 2 | Javascript I | Stefano De Vuono | 9/20 | 9/22 | 9/24 
- 3 | P5.js | Chelley Sherman | 9/27 | 9/29 | 10/1 
- 4 | Project Development | Chelley Sherman | 10/4 | 10/6 | 10/8 
- 5 | Physical Computing I | Mark Hellar | 10/11 | 10/13 | 10/15
- 6 | Javascript II | Stefano De Vuono | 10/18 | 10/20 | 10/22 
- 7 | Node.js | Mark Hellar | 10/25 | 10/27 | 10/29
+ 1 | Web Skills | Stefano De Vuono | 1/17 | 1/19 | 1/21
+ 2 | Javascript I | Stefano De Vuono | 1/24 | 1/26 | 1/28
+ 3 | P5.js | Chelley Sherman | 1/31 | 2/2 | 2/4
+ 4 | Project Development | Chelley Sherman | 2/7 | 2/9 | 2/11
+ 5 | Physical Computing I | Mark Hellar | 2/14 | 2/16 | 2/18
+ 6 | Javascript II | Stefano De Vuono | 2/21 | 2/23 | 2/25
+ 7 | Node.js | Mark Hellar | 2/28 | 3/2 | 3/4
  8 | Physical Computing II | Mark Hellar | 11/1 | 11/3 | 11/5
  9 | Interactive Environments | Mark Hellar  | 11/8 | 11/10 | 11/12
  10 | Projection Mapping | Taurin Barrera | 11/15 | 11/16 | 11/19
@@ -36,7 +36,7 @@ Week | Topic | Teacher | Class 1 |Class 2 | Class 3
 #####OVERVIEW  
 In addition to the technical objectives listed, each class contains artistic prompts to challenge your creative code development within the current week’s topic.  In addition, through the immersive Instructors will introduce and examine current creative code works for class discussion.
 
-#####Web Skills
+#####Intro and Tooling
 * What is a computer (library metaphor), introduction to command line (tab completion!), keyboard , git and Github, Github page, homework: code review 3 things you liked and 1 new idea!
 * How to learn and debug, deeper dive into HTML and CSS, styling, design (http://jgthms.com/web-design-in-4-minutes/) server-client, inspector source code, homework: find a cute website
 * Loading assets, intro to JS libraries (Chelley: moogfest page, learnprocessing), DOM traversal, lab, code review
@@ -107,8 +107,8 @@ In addition to the technical objectives listed, each class contains artistic pro
 ## **MATERIALS**
 For Physical Computing the required materials will be:
 
-* [ARDUINO UNO WITH STARTER KIT PRO PLUS BY ODDWIRES](http://www.oddwires.com/arduino-starter-kit-pro-plus/) 
-* [NODEMCU V2 - ESP8266 DEVELOPMENT BOARD](http://www.oddwires.com/nodemcu-v2-esp8266-development-board/) 
+* [ARDUINO UNO WITH STARTER KIT PRO PLUS BY ODDWIRES](http://www.oddwires.com/arduino-starter-kit-pro-plus/)
+* [NODEMCU V2 - ESP8266 DEVELOPMENT BOARD](http://www.oddwires.com/nodemcu-v2-esp8266-development-board/)
 
 Note: https://www.oddwires.com/checkout.php will do free delivery for orders over $100.00, but upsp is also fast(1 day).
 
