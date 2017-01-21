@@ -9,20 +9,18 @@
    - `git push`
 * Git and command line review
 * What is the internet and how does it work?
-* Web standards and browsers
-* Intro to HTML
-* Setting up a Code Editor
+  - https://github.com/alex/what-happens-when
+  * The basics of HTML
+    - https://gist.github.com/StefanoDeVuono/9adcb9e2e4950c7e48e82dbbc70f84de
+    - Element syntax
+    - Document structure
+    - Common HTML5 elements and their uses
 
-* The basics of HTML
-  - Element syntax
-  - Document structure
-  - Common HTML5 elements and their uses
+* Setting up a Code Editor
 * An introduction to [GitHub](https://github.com)
   - creating a personal page with [GitHub Pages](https://pages.github.com)
   - using the static site generator
   - syncing code with the native app for [Mac](http://mac.github.com) and [Windows](http://windows.github.com)
-
-
 
 ## Further Reading
 [Front-End vs. Back-End Development](http://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
