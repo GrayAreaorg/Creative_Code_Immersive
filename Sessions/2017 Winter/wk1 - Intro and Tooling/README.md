@@ -1,7 +1,6 @@
 # Week 1: Intro and Tooling
 
-##Tuesday October 7th:
-
+##Tuesday January 17th:
 * Command-line (navigation, tab completion)
 * Git [Git Immersion](http://gitimmersion.com)
    - `git init`
@@ -10,17 +9,24 @@
 * Git and command line review
 * What is the internet and how does it work?
   - https://github.com/alex/what-happens-when
-  * The basics of HTML
-    - https://gist.github.com/StefanoDeVuono/9adcb9e2e4950c7e48e82dbbc70f84de
-    - Element syntax
-    - Document structure
-    - Common HTML5 elements and their uses
+
+##Thursday January 19th:
+
+* The basics of HTML
+  - https://gist.github.com/StefanoDeVuono/9adcb9e2e4950c7e48e82dbbc70f84de
+  - Element syntax
+  - Document structure
+  - Common HTML5 elements and their uses
+
+##Saturday January 21st:
 
 * Setting up a Code Editor
+ - installing emmet
 * An introduction to [GitHub](https://github.com)
   - creating a personal page with [GitHub Pages](https://pages.github.com)
   - using the static site generator
   - syncing code with the native app for [Mac](http://mac.github.com) and [Windows](http://windows.github.com)
+* Using browser-sync
 
 ## Further Reading
 [Front-End vs. Back-End Development](http://blog.teamtreehouse.com/i-dont-speak-your-language-frontend-vs-backend)
