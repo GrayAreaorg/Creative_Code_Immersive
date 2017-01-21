@@ -21,14 +21,14 @@ Week | Topic | Teacher | Class 1 |Class 2 | Class 3
  5 | Physical Computing I | Mark Hellar | 2/14 | 2/16 | 2/18
  6 | Javascript II | Stefano De Vuono | 2/21 | 2/23 | 2/25
  7 | Node.js | Mark Hellar | 2/28 | 3/2 | 3/4
- 8 | Physical Computing II | Mark Hellar | 11/1 | 11/3 | 11/5
- 9 | Interactive Environments | Mark Hellar  | 11/8 | 11/10 | 11/12
- 10 | Projection Mapping | Taurin Barrera | 11/15 | 11/16 | 11/19
+ 8 | Physical Computing II | Mark Hellar | 3/7 | 3/9 | 3/11
+ 9 | Interactive Environments | Mark Hellar  | 3/14 |  3/16 |  3/18
+ 10 | Projection Mapping | Taurin Barrera | 3/21 | 3/23 | 3/25
  11 | Development Time |
 
-**INSTALLATION:** Tuesday November 29th
+**INSTALLATION:** Later On
 <br>
-**SHOWCASE:** Wednesday November 30th (7pm - 10pm)
+**SHOWCASE:** Indeed (7pm - 10pm)
 
 <br>
 ## CLASSES

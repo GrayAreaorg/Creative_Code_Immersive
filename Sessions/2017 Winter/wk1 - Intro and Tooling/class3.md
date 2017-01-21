@@ -1,12 +1,13 @@
-#HTML and CSS Class 3
+#HTML Class
+ - Create a web page page on Github Pages
+ - Add a linked CSS file with at least 1 style rule
+ - set up browser-sync to serve page
+ - ASK QUESTIONS!!!
+ - ANSWER EACH OTHER'S QUESTIONS!!!
+ - Create and push 5 repos to Github with html pages in them. Use browser-sync while coding locally to check how the web pages look.
 
-* [CSS Selectors Solution](http://codepen.io/Colt/pen/iacDr)
-* [CSS Colors](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
-* [Positioning](http://alistapart.com/article/css-positioning-101)
-* [Responsive Design](http://johnpolacek.github.io/scrolldeck.js/decks/responsive/)
-* [Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries)
-* [Bootstrap](http://getbootstrap.com/)
-* [Foundation](http://foundation.zurb.com/)
-* [Semantic UI](http://semantic-ui.com/)
-* [Github Pages](https://pages.github.com/)
-* Show off your own work!
+##Resources
+* [Basic HTML Boilerplate](https://gist.github.com/StefanoDeVuono/9adcb9e2e4950c7e48e82dbbc70f84de)
+* [How CSS Works](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
+* [Web Design in 4 minutes](http://jgthms.com/web-design-in-4-minutes/)
+* [How to have css3 animation to loop forever](http://stackoverflow.com/questions/23458640/how-to-have-css3-animation-to-loop-forever)
