@@ -13,6 +13,9 @@
 * Review difference between git and github
 * Git pull and git push
 
+#Homework
+* create a github repo in markdown with links to interesting or inspiring art
+
 ##Resources
 * [Git Immersion](http://gitimmersion.com)
 * [The Internet Explained](https://github.com/alex/what-happens-when)
