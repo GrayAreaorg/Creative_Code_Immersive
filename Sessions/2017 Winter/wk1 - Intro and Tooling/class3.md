@@ -11,6 +11,9 @@
  - ANSWER EACH OTHER'S QUESTIONS!!!
  - Create and push 5 repos to Github with html pages in them. Use browser-sync while coding locally to check how the web pages look.
 
+#Homework
+ - Read Chapters 1 and 2 of [Eloquent Javascript](http://eloquentjavascript.net/).
+
 ##Resources
 * [Basic HTML Boilerplate](https://gist.github.com/StefanoDeVuono/9adcb9e2e4950c7e48e82dbbc70f84de)
 * [How CSS Works](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/How_CSS_works)
