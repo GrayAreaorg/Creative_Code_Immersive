@@ -16,19 +16,19 @@ Week | Topic | Teacher | Class 1 |Class 2 | Class 3
 ---- | ---- | ---- | ---- | ---- | ----
  1 | Web Skills | Stefano De Vuono | 1/17 | 1/19 | 1/21
  2 | Javascript I | Stefano De Vuono | 1/24 | 1/26 | 1/28
- 3 | P5.js | Chelley Sherman | 1/31 | 2/2 | 2/4
- 4 | Project Development | Chelley Sherman | 2/7 | 2/9 | 2/11
+ 3 | P5.js | Niki Selken | 1/31 | 2/2 | 2/4
+ 4 | Project Development | Matt Ganucheau | 2/7 | 2/9 | 2/11
  5 | Physical Computing I | Mark Hellar | 2/14 | 2/16 | 2/18
  6 | Javascript II | Stefano De Vuono | 2/21 | 2/23 | 2/25
  7 | Node.js | Mark Hellar | 2/28 | 3/2 | 3/4
- 8 | Physical Computing II | Mark Hellar | 3/7 | 3/9 | 3/11
- 9 | Interactive Environments | Mark Hellar  | 3/14 |  3/16 |  3/18
- 10 | Projection Mapping | Taurin Barrera | 3/21 | 3/23 | 3/25
+ 8 | Physical Computing II | Niki Selken | 3/7 | 3/9 | 3/11
+ 9 | Projection Mapping | Taurin Barrera | 3/14 |  3/16 |  3/18
+ 10 | Interactive Environments | Mark Hellar | 3/21 | 3/23 | 3/25
  11 | Development Time |
 
 **INSTALLATION:** Later On
 <br>
-**SHOWCASE:** Indeed (7pm - 10pm)
+**SHOWCASE:** 4/5 (7pm - 10pm)
 
 <br>
 ## CLASSES
