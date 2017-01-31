@@ -2,8 +2,21 @@
 ![Gray Area Logo](https://raw.githubusercontent.com/GrayAreaorg/Education/master/img/ga-banner-logo-left-gray.png)
 <br>
 # CREATIVE CODE IMMERSIVE:<br> WINTER 2017 SESSION
-
 <br>
+## **STUDENT PAGES**
+
+ - [cfboyd](https://github.com/cfboyd)
+ - [miamiww](https://github.com/miamiww)
+ - [larkvcr](https://github.com/larkvcr)
+ - [seaheikes](https://github.com/seaheikes)
+ - [lucidbeaming](https://github.com/lucidbeaming)
+ - [sabrichu](https://github.com/sabrichu)
+ - [chriscast88](https://github.com/chriscast88)
+ - [apenman](https://github.com/apenman)
+ - [ripleytech](https://github.com/ripleytech)
+ - [Laur3iv](https://github.com/Laur3iv)
+
+
 ## **SCHEDULE**
 
 Session Dates: **January 17th - Later on** <br>
